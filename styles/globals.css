@@ -1,26 +1,355 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+/*==============================FONTS======================== */
+/* poppins-regular - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/poppins-v20-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/poppins-v20-latin-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v20-latin-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v20-latin-regular.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v20-latin-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/poppins-v20-latin-regular.svg#Poppins") format("svg"); /* Legacy iOS */
+}
+/* poppins-500 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/poppins-v20-latin-500.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/poppins-v20-latin-500.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v20-latin-500.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v20-latin-500.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v20-latin-500.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v20-latin-500.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-600 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/poppins-v20-latin-600.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/poppins-v20-latin-600.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v20-latin-600.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v20-latin-600.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v20-latin-600.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v20-latin-600.svg#Poppins")
+      format("svg"); /* Legacy iOS */
+}
+/* poppins-700 - latin */
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/poppins-v20-latin-700.eot"); /* IE9 Compat Modes */
+  src: local(""),
+    url("../fonts/poppins-v20-latin-700.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/poppins-v20-latin-700.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../fonts/poppins-v20-latin-700.woff")
+      format("woff"),
+    /* Modern Browsers */ url("../fonts/poppins-v20-latin-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/poppins-v20-latin-700.svg#Poppins")
+      format("svg"); /* Legacy iOS */
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
+/*==============================RESET======================== */
+/* Box sizing rules */
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+}
+
+/* Set core root defaults */
+html:focus-within {
+  scroll-behavior: smooth;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* A elements that don't have a className get default styles */
+a:not([className]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Inherit fonts for inputs and buttons */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Remove all animations, transitions and smooth scroll for people that prefer not to see them */
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+    scroll-behavior: auto;
   }
-  body {
-    color: white;
-    background: black;
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+/*
+=============== 
+Global Styles
+===============
+*/
+
+:root {
+  --clr-bg-primary: #fff;
+  --clr-bg-secondary: #f5f5f5;
+  --clr-heading: #171717;
+  --clr-body: #404040;
+  --clr-body-light: #737373;
+}
+
+.dark-theme {
+  --clr-bg-primary: #000;
+  --clr-bg-secondary: #171717;
+  --clr-heading: #f5f5f5;
+  --clr-body: #d4d4d4;
+  --clr-body-light: #a3a3a3;
+}
+.light-theme {
+  --clr-bg-primary: #fff;
+  --clr-bg-secondary: #f5f5f5;
+  --clr-heading: #171717;
+  --clr-body: #404040;
+  --clr-body-light: #737373;
+}
+
+body {
+  background: var(--clr-bg-primary);
+  color: var(--clr-body);
+  line-height: 1.5;
+  transition: all 0.3s linear;
+  font-family: "Poppins", sans-serif;
+}
+.wrapper {
+  width: 90%;
+  max-width: 1200px;
+  margin-inline: auto;
+}
+
+h1 {
+  color: var(--clr-heading);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.9;
+}
+@media (min-width: 768px) {
+  h1 {
+    font-size: 4rem;
+  }
+}
+/*==============================Navbar======================== */
+nav {
+  padding-block: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style-type: none;
+}
+.logo {
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--clr-heading);
+}
+.navbar__links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 2rem;
+}
+.navbar__links a {
+  text-decoration: none;
+  color: var(--clr-body);
+}
+.navbar__links a:hover {
+  color: var(--clr-heading);
+}
+nav .btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+nav .btn:hover svg path {
+  fill: var(--clr-heading);
+  transition: 0.3s ease-in all;
+}
+
+@media (min-width: 768px) {
+  nav {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .navbar__links {
+    gap: 3rem;
+    padding-top: 0;
+  }
+}
+
+/*==============================Hero======================== */
+
+#hero {
+  min-height: calc(100vh - 166px);
+  margin-block: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 90%;
+  max-width: 900px;
+  margin-inline: auto;
+}
+#hero h1 {
+  padding-bottom: 2rem;
+}
+
+#hero p {
+  padding-bottom: 1rem;
+}
+#hero .social__links {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+#hero .social:hover svg path {
+  fill: var(--clr-heading);
+  transition: 0.3s ease-in all;
+}
+
+@media (min-width: 768px) {
+  #hero {
+    min-height: calc(100vh - 105px);
+  }
+}
+/*==============================latestBlog======================== */
+
+#latestBlog {
+  background-color: var(--clr-bg-secondary);
+}
+
+@media (min-width: 768px) {
+  #latestBlog {
+    position: relative;
+    padding-top: 6.5rem;
+  }
+  .drehtitel {
+    position: absolute;
+    transform: rotate(-90deg) translateX(-100%);
+    transform-origin: top left;
+  }
+  .blogposts {
+    width: 930px;
+    margin-left: auto;
+  }
+}
+/*==============================Back to top======================== */
+.back-to-top {
+  background-color: var(--clr-bg-secondary);
+  padding-bottom: 1rem;
+}
+.back-to-top a {
+  text-decoration: none;
+  color: var(--clr-heading);
+  display: flex;
+  justify-content: center;
+}
+.back-to-top .text {
+  cursor: pointer;
+}
+
+/*==============================Footer======================== */
+footer {
+  background-color: var(--clr-bg-secondary);
+  padding-top: 2rem;
+  border-top: 1px solid var(--clr-bg-primary);
+}
+footer p {
+  text-align: center;
+}
+footer .unnoetige__links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 3rem;
+  padding-bottom: 0.75rem;
+}
+
+@media (min-width: 768px) {
+  footer .unnoetige__links {
+    margin-top: 5rem;
+    padding-bottom: 1.5rem;
   }
 }
