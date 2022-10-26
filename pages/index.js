@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Footer from "../components/footer";
 import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 import Posts from "../components/posts";
@@ -13,6 +14,7 @@ export default function Home({ posts }) {
       <Navbar />
       <Hero />
       <Posts posts={posts} />
+      <Footer />
     </main>
   );
 }

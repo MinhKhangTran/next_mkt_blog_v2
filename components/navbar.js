@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Moon from "../public/images/svg/moon.svg";
 
 const Navbar = () => {
   return (

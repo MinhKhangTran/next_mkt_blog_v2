@@ -1,14 +1,14 @@
 const Posts = ({ posts }) => {
   return (
     <section id="latestBlog" aria-label="latest Blog abschnitt">
-      <div class="wrapper">
-        <span class="drehtitel">Die neusten Posts</span>
-        <div class="blogposts">
+      <div className="wrapper">
+        <span className="drehtitel">Die neusten Posts</span>
+        <div className="blogposts">
           {posts.map((post) => {
             return (
-              <article key={post.frontmatter.title} classt="blogpost">
+              <article key={post.frontmatter.title} className="blogpost">
                 <h2>{post.frontmatter.title}</h2>
-                <p class="date">{post.frontmatter.date}</p>
+                <p className="date">{post.frontmatter.date}</p>
                 <p>{post.frontmatter.excerpt}</p>
               </article>
             );
