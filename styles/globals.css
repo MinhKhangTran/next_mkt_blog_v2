@@ -189,7 +189,7 @@ body {
 }
 .wrapper {
   width: 90%;
-  max-width: 1200px;
+  max-width: 900px;
   margin-inline: auto;
 }
 
@@ -299,20 +299,35 @@ nav .btn:hover svg path {
 #latestBlog {
   background-color: var(--clr-bg-secondary);
 }
+#latestBlog h2 {
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+#latestBlog h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+#latestBlog .date {
+  padding-block: 0.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--clr-body-light);
+}
+#latestBlog .blogposts {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 2rem;
+}
 
 @media (min-width: 1100px) {
   #latestBlog {
     position: relative;
     padding-top: 6.5rem;
   }
-  .drehtitel {
-    position: absolute;
-    transform: rotate(-90deg) translateX(-100%);
-    transform-origin: top left;
-  }
-  .blogposts {
-    width: 930px;
-    margin-left: auto;
+
+  #latestBlog .blogposts {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 /*==============================Back to top======================== */
