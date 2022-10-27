@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
-import marked from "marked";
+
 import Link from "next/link";
 import Head from "next/head";
 import Navbar from "../../components/navbar";
@@ -12,7 +12,7 @@ export default function PostPage({
   content,
   slug,
 }) {
-  console.log(marked.parse(content));
+  
   return (
     <main>
       <Head>
