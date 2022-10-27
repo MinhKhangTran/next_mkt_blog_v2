@@ -204,6 +204,9 @@ h1 {
     font-size: 4rem;
   }
 }
+a {
+  color: var(--clr-heading);
+}
 /*==============================Navbar======================== */
 nav {
   padding-block: 2rem;
@@ -304,7 +307,7 @@ nav .btn:hover svg path {
   font-size: 1.5rem;
   font-weight: 400;
 }
-#latestBlog h3 {
+#latestBlog .heading-2 {
   font-size: 1.5rem;
   font-weight: 600;
 }
@@ -318,6 +321,10 @@ nav .btn:hover svg path {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   gap: 2rem;
+}
+#latestBlog .link {
+  display: inline-block;
+  margin-top: 3rem;
 }
 
 @media (min-width: 1100px) {
@@ -334,6 +341,7 @@ nav .btn:hover svg path {
 .back-to-top {
   background-color: var(--clr-bg-secondary);
   padding-bottom: 1rem;
+  padding-top: 6.5rem;
 }
 .back-to-top a {
   text-decoration: none;
@@ -368,3 +376,4 @@ footer .unnoetige__links {
     padding-bottom: 1.5rem;
   }
 }
+/*==============================BTN======================== */

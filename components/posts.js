@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Posts = ({ posts }) => {
   return (
     <section id="latestBlog" aria-label="latest Blog abschnitt">
@@ -7,16 +9,18 @@ const Posts = ({ posts }) => {
           {posts.map((post) => {
             return (
               <article key={post.frontmatter.title} className="blogpost">
-                <h3>{post.frontmatter.title}</h3>
+                <Link href={`/blog/${post.slug}`}>
+                  <a className="heading-2">{post.frontmatter.title}</a>
+                </Link>
                 <p className="date">{post.frontmatter.date}</p>
                 <p>{post.frontmatter.excerpt}</p>
               </article>
             );
           })}
         </div>
-        <button>
-          <a href="/blog">Alle Posts</a>
-        </button>
+        <Link href="/blog">
+          <a className="link">Alle Posts</a>
+        </Link>
       </div>
     </section>
   );
