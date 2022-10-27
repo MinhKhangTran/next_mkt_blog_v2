@@ -3,11 +3,11 @@ import Footer from "../components/footer";
 
 import Navbar from "../components/navbar";
 
-export default function About() {
+export default function Impressum() {
   return (
     <main>
       <Head>
-        <title>MKT&apos;s Blog | Über mich</title>
+        <title>MKT&apos;s Blog | Impressum</title>
       </Head>
       <Navbar />
       <Footer />
