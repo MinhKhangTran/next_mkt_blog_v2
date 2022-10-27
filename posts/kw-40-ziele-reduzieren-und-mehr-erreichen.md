@@ -1,6 +1,6 @@
 ---
 title: "KW 40: Ziele reduzieren und mehr erreichen"
-excerpt: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+excerpt: "Der Wochenrückblick von KW40 über die Zielsetzung meiner Hauptaktivitäten"
 date: "09.10.2022"
 ---
 
