@@ -1,7 +1,7 @@
 ---
 title: "KW 40: Ziele reduzieren und mehr erreichen"
 excerpt: "Der Wochenrückblick von KW40 über die Zielsetzung meiner Hauptaktivitäten"
-date: "Oktober 9, 2022"
+date: "October 9, 2022"
 ---
 
 # KW 40: Ziele reduzieren und mehr erreichen

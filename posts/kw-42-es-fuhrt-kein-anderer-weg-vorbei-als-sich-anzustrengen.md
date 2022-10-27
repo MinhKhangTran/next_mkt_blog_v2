@@ -1,7 +1,7 @@
 ---
 title: "KW 42: Es führt kein anderer Weg vorbei, als sich anzustrengen"
 excerpt: "Der Wochenrückblick von KW42 über sich anstrengen in allen Lebensbereichen"
-date: "Oktober 23, 2022"
+date: "October 23, 2022"
 ---
 
 # KW 42: Es führt kein anderer Weg vorbei, als sich anzustrengen
