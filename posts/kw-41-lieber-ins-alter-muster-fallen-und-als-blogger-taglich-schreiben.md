@@ -1,7 +1,7 @@
 ---
 title: "KW 41: Lieber ins alter Muster fallen und als Blogger täglich schreiben"
 excerpt: "Der Wochenrückblick von KW41 über gut und alt bewährtes und das tägliche Schreiben"
-date: "16.10.2022"
+date: "Oktober 16, 2022"
 ---
 
 # KW 41: Lieber ins alter Muster fallen und als Blogger täglich schreiben
