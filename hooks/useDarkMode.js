@@ -9,8 +9,8 @@ function useDarkMode() {
   useEffect(() => {
     const root = window.document.documentElement;
 
-    root.classList.remove(colorTheme);
-    root.classList.add(theme);
+    root.className = "theme";
+    
 
     if (typeof window !== "undefined") {
       localStorage.setItem("theme", theme);
