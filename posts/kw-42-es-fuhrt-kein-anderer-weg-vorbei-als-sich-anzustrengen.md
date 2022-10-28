@@ -6,17 +6,19 @@ date: "October 23, 2022"
 
 # KW 42: Es führt kein anderer Weg vorbei, als sich anzustrengen
 
+${toc}
+
 “Wenn du so weitermachst, dann wirst du auch nächstes Jahr bei dieser Leistung sein!”.
 
 Sagte der Coach mit einem frechen Grinsen.
 
-Das war bezogen auf mein Bankdrücken. Von außen gesehen strenge ich mich zu wenig an. 
+Das war bezogen auf mein Bankdrücken. Von außen gesehen strenge ich mich zu wenig an.
 
 Bankdrücken und ich werden wahrscheinlich in diesem Leben keine Freunde mehr.
 
 Ich habe anfangs in meiner Karriere als Kraftsportler das Bankdrücken ein wenig disrespected. Und das ist jetzt der Preis den ich zahlen muss.
 
-Also heißt es mehr Bankdrücken und sich halt einfach anstrengen. 
+Also heißt es mehr Bankdrücken und sich halt einfach anstrengen.
 
 ---
 
@@ -30,7 +32,7 @@ Alles für die Gains (und ein gesunder Körper).
 
 ## Korean
 
-Diese Woche habe ich einen Post über meinen ersten Wettkampf geschrieben. 
+Diese Woche habe ich einen Post über meinen ersten Wettkampf geschrieben.
 
 Es ist wahrscheinlich für viele uninteressant, aber der Wettkampf hat mich motiviert und jetzt bin ich voll der Gymfreak.
 
@@ -40,7 +42,7 @@ Durstig nach mehr Gains.
 
 ## Web Design
 
-Mein persönlicher Blog habe ich diese Woche redesignt. Es ist einfacher aufgebaut und hat mehr White Space. 
+Mein persönlicher Blog habe ich diese Woche redesignt. Es ist einfacher aufgebaut und hat mehr White Space.
 
 Das Design habe ich mit dem Open Source App [Penpot](https://penpot.app/) erstellt.
 
@@ -48,7 +50,7 @@ Der Grund: Figma wurde von Adobe aufgekauft und es wird in naher Zukunft (in ein
 
 Also wollte ich bei dem Design des Blogs auf eine kostenfreie App umsteigen. Die Apps funktionieren zum Glück alle gleich.
 
-***Man bewegt lediglich nur Rechtecke in einer 2D-Ebene.***
+**_Man bewegt lediglich nur Rechtecke in einer 2D-Ebene._**
 
 So sieht der erste Entwurf aus:
 
@@ -62,7 +64,7 @@ Darkmode:
 
 Über den Einfluss von Schlaf lässt sich kaum streiten. Guter Schlaf ist einfach anabol. So würde es Marius sagen.
 
-Aber es stimmt auch. 
+Aber es stimmt auch.
 
 Diese Woche waren die Gewichte gleich, aber die Form hat sich verbessert. Eine bessere Form ist auch ein Indiz für Progress.
 
@@ -78,9 +80,9 @@ Ich muss hier das ausmaxen simulieren, indem ich lange Pause auf der Brust mache
 
 Dann lernt mein Körper aus dieser Situation mit guter Form hochzudrücken bzw. zu umarmen.
 
-### Kreuzheben: 170kg  4x5
+### Kreuzheben: 170kg 4x5
 
-Form wurde approved vom Coach. 
+Form wurde approved vom Coach.
 
 Einfach nahe am Schienbein hochziehen und dann gehts ab. Habe aber beim vierten Satz den Beinbeuger gefühlt. War wahrscheinlich schon kalt und Konzentration war weg.
 
@@ -120,7 +122,6 @@ Alles kompetente Mitarbeiter, die nur an das Arbeiten denken und reden.
 
 Foto von <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.de/Office-Staffel-dt-OV/dp/B07SXC4KPQ">Amazon</a>
 
-
 ## Was hängen geblieben ist
 
 Lieder, die hängen geblieben sind diese Woche:
@@ -130,7 +131,7 @@ Lieder, die hängen geblieben sind diese Woche:
 
 Ich kann keine guten Reviews schreiben, weil ich keine Ahnung von Musik habe. Aber rein aus Übungszwecken kann ich es mal versuchen.
 
-Die Lieder sind einfach gut. Vom Feeling her. 
+Die Lieder sind einfach gut. Vom Feeling her.
 
 Musikgeschmack ist bekanntlich subjektiv.
 
@@ -138,13 +139,13 @@ Musikgeschmack ist bekanntlich subjektiv.
 
 Penpot ist gut, aber noch nicht auf dem Level von Figma. Aber das kommt mit der Zeit.
 
-Ich konnte ein Design damit erstellen. 
+Ich konnte ein Design damit erstellen.
 
 Freue mich auf die ganzen Updates von Penpot.
 
 ## Was ich sonst so gemacht habe?
 
-Ich hatte kein Datenvolumen, deswegen konnte ich kaum Anki Flashcards lernen. Ich habe die Zeit in der Sbahn einfach zum Buch lesen genutzt. 
+Ich hatte kein Datenvolumen, deswegen konnte ich kaum Anki Flashcards lernen. Ich habe die Zeit in der Sbahn einfach zum Buch lesen genutzt.
 
 Diese Woche habe ich das [Content Marketing - das Workbook](https://www.amazon.de/Content-Marketing-Workbook-erfolgreichem-Business/dp/3958455166) von [Ines Eschbacher](https://www.punkt-komma.at/de/Team) gelesen. Es ist einfach geschrieben und bietet viele [zusätzliche Unterlagen](https://www.punkt-komma.at/de/Content-Marketing-Workbook), um meine Content Strategie weiter aufzubauen.
 
@@ -154,7 +155,7 @@ Diese Woche oder letzte Woche habe ich [Amazon Music Prime](https://www.amazon.d
 
 Jetzt höre ich bei der Autofahrt und im Geschäft öfters Musik.
 
-Ich habe auch herausgefunden, wie man den [Akkustand von meinen Airpods anzeigen lässt](https://support.apple.com/de-de/HT207012#:~:text=%C3%96ffne%20den%20Casedeckel%2C%20und%20halte,iPad%20oder%20iPod%20touch%20%C3%BCberpr%C3%BCfen.). 
+Ich habe auch herausgefunden, wie man den [Akkustand von meinen Airpods anzeigen lässt](https://support.apple.com/de-de/HT207012#:~:text=%C3%96ffne%20den%20Casedeckel%2C%20und%20halte,iPad%20oder%20iPod%20touch%20%C3%BCberpr%C3%BCfen.).
 
 Ich habe die erste Generation von Airpods, aber diese Methode funktioniert auch bei den zukünftigen Modellen:
 
@@ -172,5 +173,5 @@ Diese Woche habe ich oft [Porridge](https://www.youtube.com/watch?v=uew_PsI6RZs)
 
 Genug Proteine und gute Nährstoffe.
 
-Leider habe ich keine Mikrowelle zuhause und muss es mit dem Topf vorbereiten. Dennoch eine sehr geile Mahlzeit. 
+Leider habe ich keine Mikrowelle zuhause und muss es mit dem Topf vorbereiten. Dennoch eine sehr geile Mahlzeit.
 Esse ich jetzt in der Firma. Aber mit meinen Haferflocken 😊.

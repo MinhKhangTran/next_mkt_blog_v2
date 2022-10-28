@@ -6,6 +6,8 @@ date: "October 9, 2022"
 
 # KW 40: Ziele reduzieren und mehr erreichen
 
+${toc}
+
 Diese Woche habe ich meine Zielsetzung etwas reduziert. Ich hatte viel zu viele Ziele:
 
 - Blog schreiben

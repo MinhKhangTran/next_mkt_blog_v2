@@ -1,27 +1,24 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
-
 import Link from "next/link";
 import Head from "next/head";
 import Navbar from "../../components/navbar";
 import Footer from "../../components/footer";
+import Blogpost from "../../components/blogpost";
 
 export default function PostPage({
   frontmatter: { title, date },
   content,
   slug,
 }) {
-  
   return (
     <main>
       <Head>
         <title>MKT&apos;s Blog | {title}</title>
       </Head>
       <Navbar />
-      <section className="blog-text mt-2">
-        <div dangerouslySetInnerHTML={{ __html: content }}></div>
-      </section>
+      <Blogpost content={content} />
       <Footer />
     </main>
   );

@@ -6,25 +6,27 @@ date: "October 16, 2022"
 
 # KW 41: Lieber ins alter Muster fallen und als Blogger täglich schreiben
 
+${toc}
+
 Ich dachte ich habe aus meinen Fehlern gelernt.
 
-Aber immer gerate ich in Versuchungen. 
+Aber immer gerate ich in Versuchungen.
 
 Ich meine hier diese Website Builder.
 
-Insbesondere interessant sind für mich [Webflow](https://webflow.com/) und [WordPress](https://wordpress.com/de/). 
+Insbesondere interessant sind für mich [Webflow](https://webflow.com/) und [WordPress](https://wordpress.com/de/).
 
-Oder [Shopify](https://www.shopify.com/de) bei E-Commerce. Aber das ist ein anderes Thema. 
+Oder [Shopify](https://www.shopify.com/de) bei E-Commerce. Aber das ist ein anderes Thema.
 
-Ich habe mir haufenweise Tutorials reingezogen und einige Websites damit gemacht. 
+Ich habe mir haufenweise Tutorials reingezogen und einige Websites damit gemacht.
 
 Aber wieso?
 
-Ich kann coden. Und der Code ist sogar effektiver, was Datengröẞe und „clean code“ betrifft. 
+Ich kann coden. Und der Code ist sogar effektiver, was Datengröẞe und „clean code“ betrifft.
 
-Diese Woche habe ich wieder gelernt, dass ich lieber programmiere als „stumpf“ drag und droppe. 
+Diese Woche habe ich wieder gelernt, dass ich lieber programmiere als „stumpf“ drag und droppe.
 
-Ob es am Ende schneller ist, das wage ich zu bezweifeln. 
+Ob es am Ende schneller ist, das wage ich zu bezweifeln.
 
 Am Ende zählt nur die funktionsfähige Website und ein glücklicher Kunde!
 
@@ -40,11 +42,11 @@ Bei mir zunächst eine Din A4 Seite. Das sind momentan ungefähr 250 Wörter.
 
 Von dort aus steigere ich mich dann langsam auf 2 etc.
 
-Stephen King macht jeden Tag 6 Seiten. Diese sind aber hochqualitativ. 
+Stephen King macht jeden Tag 6 Seiten. Diese sind aber hochqualitativ.
 
 Obwohl ich keins seiner Bücher gelesen habe, eilt ihm sein Ruf voraus.
 
-Ich merke auch, wie ich meine Kreativität frei laufen lassen kann. In diesen Din A4 Seite schreibe ich meistens nur Nonsense, aber ich schreibe alles nieder, was in meinem Gehirn ist. Dadurch bin ich lockerer und stressfreier danach. 
+Ich merke auch, wie ich meine Kreativität frei laufen lassen kann. In diesen Din A4 Seite schreibe ich meistens nur Nonsense, aber ich schreibe alles nieder, was in meinem Gehirn ist. Dadurch bin ich lockerer und stressfreier danach.
 
 ## Korean
 
@@ -54,9 +56,9 @@ Diese Woche habe ich den Blogartikel zu unserer Reise in Österreich geschrieben
 
 ## Web Design
 
-Diese Woche habe ich das Design der Landing page zu Ende gecoded. Es war wieder frisch mal eine Website zu coden. 
+Diese Woche habe ich das Design der Landing page zu Ende gecoded. Es war wieder frisch mal eine Website zu coden.
 
-Ich habe jetzt eine Routine wie ich Websites erstelle mit [Eleventy](https://www.11ty.dev/). 
+Ich habe jetzt eine Routine wie ich Websites erstelle mit [Eleventy](https://www.11ty.dev/).
 
 Klar ich nutze nicht alle Features von Eleventy, aber es reicht und erfüllt für viele meiner angebotenen Websites 90% aller Ziele.
 
@@ -72,7 +74,7 @@ Mehr Schlafen?
 
 Wie wärs damit?
 
-Dann würde die Performance besser sein. Immer wieder fällt es mir schwer einfach früher zu schlafen. 
+Dann würde die Performance besser sein. Immer wieder fällt es mir schwer einfach früher zu schlafen.
 
 Naja, aber diese Woche waren meine Main Lifts wie folgt:
 
@@ -80,11 +82,11 @@ Kniebeugen: 90kg 5x5 (painfree, es würden auch 100 kg gehen)
 
 Bankdrücken: 80kg 5x5
 
-Kreuzheben: 170kg  2x5 und 160 kg 3x5 
+Kreuzheben: 170kg 2x5 und 160 kg 3x5
 
 Beim **Kniebeugen** geht es voran wieder. Ich muss konstant Spannung auf die Stange ausüben und so kann die Stange gerade sein. Außerdem brauche ich jmd. zum draufschauen, sonst ist es mau.
 
-Beim **Bankdrücken** poppt meine linke Schulter immer wieder raus. Das ist nicht gut. Dehnungen machen und Ur-Instinkt dazu bringen nicht rauszupoppen. Vielleicht hilft der Cue, dass ich beim Bankdrücken eher [horizontale Adduktion](https://youtu.be/Swc-uFRkxjg?t=367) durchführen soll, statt zu drücken. 
+Beim **Bankdrücken** poppt meine linke Schulter immer wieder raus. Das ist nicht gut. Dehnungen machen und Ur-Instinkt dazu bringen nicht rauszupoppen. Vielleicht hilft der Cue, dass ich beim Bankdrücken eher [horizontale Adduktion](https://youtu.be/Swc-uFRkxjg?t=367) durchführen soll, statt zu drücken.
 
 Horizontale Adduktion bedeutet einfach gesagt: jmd zu umarmen 🫂.
 
@@ -92,7 +94,7 @@ Beim drücken, mache ich halt diesen Box-Move und dadurch haut es meine Schulter
 
 **Deadlift** kommt langsam in die Richtung, die ich gut finde. Nah am Körper wie ein Zug entlang einer Schiene.
 
-Ich habe noch Probleme mit dem Gürtel, weil es wahrscheinlich zu eng ist. 
+Ich habe noch Probleme mit dem Gürtel, weil es wahrscheinlich zu eng ist.
 Muss einfach fetter werden, damit ich in das nächstgrößere Loch passe.
 
 Nächstes mal muss ich mich beim Heben filmen, da ich beim Heben meistens alleine bin.
@@ -135,7 +137,7 @@ Erst die ersten drei Folgen angeschaut.
 
 Aber bisher gefällt es mir. Ein Mad Scientist, der die Welt einfach brennen sehen will.
 
-Ein Review kommt bald… 
+Ein Review kommt bald…
 
 ![All_of_Us_Are_Dead.jpeg](/images/posts/kw41/all-of-us-are-dead.jpeg)
 
@@ -153,7 +155,7 @@ Ebenso habe ich den Blogkurs von Walter Epp im Auge. Der ist teuer, aber verspri
 
 Das waren die Gründe, warum ich mich nicht beworben habe. Ich ~~hoffe~~ möchte, dass meine freiberufliche Tätigkeit erfolgreich wird.
 
-Mein jetziger Job bei OptimumOne gefällt mir und ich kann meinen Nebenberuf mehr oder weniger bewältigen. 
+Mein jetziger Job bei OptimumOne gefällt mir und ich kann meinen Nebenberuf mehr oder weniger bewältigen.
 
 ## Was ich diese Woche entdeckt habe
 
@@ -173,7 +175,7 @@ Interessantes UI Library
 
 Passend für die Jahreszeit.
 
-Das Design und der Code gefällt mir. 
+Das Design und der Code gefällt mir.
 
 Ich liebe Open Source Projekte. Ich habe Lust bei solchen Projekten mitzuwirken.
 
