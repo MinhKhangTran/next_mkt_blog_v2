@@ -9,7 +9,7 @@ function useDarkMode() {
   useEffect(() => {
     const root = window.document.documentElement;
 
-    root.className = "theme";
+    root.className = theme;
     
 
     if (typeof window !== "undefined") {
