@@ -376,4 +376,22 @@ footer .unnoetige__links {
     padding-bottom: 1.5rem;
   }
 }
-/*==============================BTN======================== */
+/*==============================Blogpost======================== */
+#blogpost__section {
+  background-color: var(--clr-bg-secondary);
+  padding-top: 6.5rem;
+}
+#blogpost__section p {
+  line-height: 1.5;
+  padding-block: 0.65rem;
+}
+#blogpost__section h2 {
+  padding-block: 2rem 1rem;
+  font-size: 2rem;
+  font-weight: 400;
+}
+#blogpost__section h3 {
+  padding-block: 1.5rem 1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+}

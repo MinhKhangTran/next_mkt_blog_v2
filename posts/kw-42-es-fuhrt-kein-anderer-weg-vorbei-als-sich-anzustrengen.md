@@ -120,7 +120,7 @@ Alles kompetente Mitarbeiter, die nur an das Arbeiten denken und reden.
 
 ![The Office](/images/posts/kw42/the-office.png)
 
-Foto von <a target="_blank" rel="noopener noreferrer" href="https://www.amazon.de/Office-Staffel-dt-OV/dp/B07SXC4KPQ">Amazon</a>
+Foto von [Amazon](https://www.amazon.de/Office-Staffel-dt-OV/dp/B07SXC4KPQ)
 
 ## Was hängen geblieben ist
 

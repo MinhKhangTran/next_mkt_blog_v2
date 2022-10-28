@@ -94,7 +94,7 @@ Am Wochenende „[Apache bleibt gleich](https://www.amazon.de/Apache-bleibt-glei
 
 ![Apache bleibt gleich Poster](/images/posts/kw40/apache-bleibt-gleich-poster.png)
 
-Foto von <a target="_blank" rel="noopener noreferrer" href="https://www.filmstarts.de/kritiken/307964.html">Filmstarts</a>
+Foto von [Filmstarts](https://www.filmstarts.de/kritiken/307964.html)
 
 ## Was ich sonst so gemacht habe?
 

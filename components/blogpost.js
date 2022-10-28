@@ -1,11 +1,14 @@
 import md from "markdown-it";
 import mdAnchor from "markdown-it-anchor";
 import mdTOC from "markdown-it-toc-done-right";
+import { useRouter } from "next/router";
 
 const Blogpost = ({ content }) => {
+  const router = useRouter();
   return (
-    <section id="blogpost__section">
+    <section className="" id="blogpost__section">
       <div
+        className="wrapper"
         dangerouslySetInnerHTML={{
           __html: md()
             .use(mdAnchor, {
@@ -18,6 +21,9 @@ const Blogpost = ({ content }) => {
             .render(content),
         }}
       ></div>
+      <button type="button" onClick={() => router.back()}>
+        Zurück zu den Posts
+      </button>
     </section>
   );
 };

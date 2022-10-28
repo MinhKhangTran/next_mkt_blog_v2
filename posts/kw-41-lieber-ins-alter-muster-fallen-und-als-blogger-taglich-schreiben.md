@@ -141,7 +141,7 @@ Ein Review kommt bald…
 
 ![All_of_Us_Are_Dead.jpeg](/images/posts/kw41/all-of-us-are-dead.jpeg)
 
-Foto von <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/All_of_Us_Are_Dead">Wikipedia</a>
+Foto von [Wikipedia](https://en.wikipedia.org/wiki/All_of_Us_Are_Dead)
 
 ## Was ich sonst so gemacht habe?
 
