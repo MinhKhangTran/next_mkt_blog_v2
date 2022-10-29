@@ -1,16 +1,9 @@
-import Head from "next/head";
-import Footer from "../components/footer";
-
-import Navbar from "../components/navbar";
+import Layout from "../components/Layout";
 
 export default function Datenschutzerklaerung() {
   return (
-    <main>
-      <Head>
-        <title>MKT&apos;s Blog | Datenschutzerklärung</title>
-      </Head>
-      <Navbar />
-      <Footer />
-    </main>
+    <Layout title="Datenschutzerklärung">
+      <h1>Datenschutzerklärung</h1>
+    </Layout>
   );
 }

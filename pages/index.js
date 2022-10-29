@@ -1,21 +1,17 @@
 import Head from "next/head";
 import Footer from "../components/footer";
 import Hero from "../components/hero";
-import Navbar from "../components/navbar";
+import Layout from "../components/Layout";
+
 import Posts from "../components/posts";
 import { getPosts } from "../lib/posts";
 
 export default function Home({ posts }) {
   return (
-    <main>
-      <Head>
-        <title>MKT&apos;s Blog</title>
-      </Head>
-      <Navbar />
+    <Layout>
       <Hero />
       <Posts posts={posts} />
-      <Footer />
-    </main>
+    </Layout>
   );
 }
 

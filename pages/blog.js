@@ -1,16 +1,9 @@
-import Head from "next/head";
-import Footer from "../components/footer";
-
-import Navbar from "../components/navbar";
+import Layout from "../components/Layout";
 
 export default function Blog() {
   return (
-    <main>
-      <Head>
-        <title>MKT&apos;s Blog | Alle Posts</title>
-      </Head>
-      <Navbar />
-      <Footer />
-    </main>
+    <Layout title="Alle Posts">
+      <h1>Alle Posts</h1>
+    </Layout>
   );
 }

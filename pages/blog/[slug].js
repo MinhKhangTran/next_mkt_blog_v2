@@ -1,11 +1,9 @@
 import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
-import Link from "next/link";
-import Head from "next/head";
-import Navbar from "../../components/navbar";
-import Footer from "../../components/footer";
+
 import Blogpost from "../../components/blogpost";
+import Layout from "../../components/Layout";
 
 export default function PostPage({
   frontmatter: { title, date },
@@ -13,14 +11,9 @@ export default function PostPage({
   slug,
 }) {
   return (
-    <main>
-      <Head>
-        <title>MKT&apos;s Blog | {title}</title>
-      </Head>
-      <Navbar />
+    <Layout title={title}>
       <Blogpost content={content} />
-      <Footer />
-    </main>
+    </Layout>
   );
 }
 

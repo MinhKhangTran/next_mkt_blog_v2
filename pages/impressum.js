@@ -1,16 +1,9 @@
-import Head from "next/head";
-import Footer from "../components/footer";
-
-import Navbar from "../components/navbar";
+import Layout from "../components/Layout";
 
 export default function Impressum() {
   return (
-    <main>
-      <Head>
-        <title>MKT&apos;s Blog | Impressum</title>
-      </Head>
-      <Navbar />
-      <Footer />
-    </main>
+    <Layout title="Impressum">
+      <h1>Impressum</h1>
+    </Layout>
   );
 }

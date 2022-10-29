@@ -5,7 +5,6 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 
 const Blogpost = ({ content }) => {
-  const router = useRouter();
   return (
     <section className="" id="blogpost__section">
       <div
@@ -14,16 +13,23 @@ const Blogpost = ({ content }) => {
           __html: md()
             .use(mdAnchor, {
               level: 2,
-              permalink: true,
+              permalink: mdAnchor.permalink.linkInsideHeader({
+                symbol: `
+      
+      <span aria-hidden="true">#</span>
+    `,
+                placement: "before",
+              }),
               permalinkBefore: true,
               permalinkSymbol: "#",
+              tabIndex: false,
             })
             .use(mdTOC, { level: 2 })
             .render(content),
         }}
       ></div>
       <button type="button">
-        <Link href="/">
+        <Link href="/blog">
           <a>Zu den Posts</a>
         </Link>
       </button>

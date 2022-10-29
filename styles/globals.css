@@ -390,9 +390,40 @@ footer .unnoetige__links {
   padding-block: 2rem 1rem;
   font-size: 2rem;
   font-weight: 400;
+  position: relative;
 }
 #blogpost__section h3 {
   padding-block: 1.5rem 1rem;
   font-size: 1.5rem;
   font-weight: 400;
+  position: relative;
+}
+
+#blogpost__section h4,
+#blogpost__section h5,
+#blogpost__section h6 {
+  position: relative;
+}
+
+#blogpost__section .header-anchor {
+  position: absolute;
+  left: 0;
+  transform: translateX(-100%);
+  padding-right: 4px;
+  text-decoration: none;
+}
+#blogpost__section .header-anchor span {
+  visibility: hidden;
+}
+#blogpost__section h2:hover .header-anchor span,
+#blogpost__section h3:hover .header-anchor span,
+#blogpost__section h4:hover .header-anchor span,
+#blogpost__section h5:hover .header-anchor span,
+#blogpost__section h6:hover .header-anchor span,
+#blogpost__section h2 .header-anchor:focus span,
+#blogpost__section h3 .header-anchor:focus span,
+#blogpost__section h4 .header-anchor:focus span,
+#blogpost__section h5 .header-anchor:focus span,
+#blogpost__section h6 .header-anchor:focus span {
+  visibility: visible;
 }
