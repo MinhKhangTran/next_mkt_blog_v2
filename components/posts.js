@@ -1,10 +1,15 @@
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 const Posts = ({ posts }) => {
+  const router = useRouter();
+  console.log(router.pathname);
   return (
     <section id="latestBlog" aria-label="latest Blog abschnitt">
       <div className="wrapper">
-        <h2 className="">Die neusten Posts</h2>
+        <h2 className="">
+          {router.pathname === "/" ? "Die neusten Posts" : "Alle Posts"}
+        </h2>
         <div className="blogposts">
           {posts.map((post) => {
             return (
@@ -18,9 +23,11 @@ const Posts = ({ posts }) => {
             );
           })}
         </div>
-        <Link href="/blog">
-          <a className="link">Alle Posts</a>
-        </Link>
+        {router.pathname === "/" && (
+          <Link href="/blog">
+            <a className="link">Alle Posts</a>
+          </Link>
+        )}
       </div>
     </section>
   );

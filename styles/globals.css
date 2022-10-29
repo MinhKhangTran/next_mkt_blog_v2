@@ -309,6 +309,7 @@ nav .btn:hover svg path {
   background-color: var(--clr-bg-secondary);
 }
 #latestBlog h2 {
+  padding-top: 4rem;
   padding-bottom: 1rem;
   font-size: 1.5rem;
   font-weight: 400;
