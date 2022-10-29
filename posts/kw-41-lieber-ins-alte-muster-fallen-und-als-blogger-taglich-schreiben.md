@@ -6,6 +6,8 @@ date: "October 16, 2022"
 
 # KW 41: Lieber ins alte Muster fallen und als Blogger täglich schreiben
 
+**Inhaltsverzeichnis**
+
 ${toc}
 
 Ich dachte ich habe aus meinen Fehlern gelernt.

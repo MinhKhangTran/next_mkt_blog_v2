@@ -186,7 +186,12 @@ body {
   line-height: 1.5;
   transition: all 0.3s linear;
   font-family: "Poppins", sans-serif;
-  font-size: 1.25rem;
+  font-size: 1rem;
+}
+@media (min-width: 768px) {
+  body {
+    font-size: 1.25rem;
+  }
 }
 .wrapper {
   width: 90%;
@@ -381,7 +386,28 @@ footer .unnoetige__links {
 #blogpost__section {
   background-color: var(--clr-bg-secondary);
   padding-top: 6.5rem;
+  position: relative;
 }
+#blogpost__section h1 {
+  padding-bottom: 3rem;
+}
+#blogpost__section nav {
+  display: block;
+  margin-top: -4rem;
+  padding-bottom: 3rem;
+}
+#blogpost__section nav ol:first-child {
+  padding: 0;
+}
+#blogpost__section nav ol {
+  list-style: none;
+}
+#blogpost__section nav a {
+  color: var(--clr-body);
+  text-decoration: none;
+  font-size: 1rem;
+}
+
 #blogpost__section p {
   line-height: 1.5;
   padding-block: 0.65rem;
@@ -426,4 +452,43 @@ footer .unnoetige__links {
 #blogpost__section h5 .header-anchor:focus span,
 #blogpost__section h6 .header-anchor:focus span {
   visibility: visible;
+}
+#blogpost__section .post__wrapper {
+  width: 90%;
+  max-width: 750px;
+  margin-inline: auto;
+}
+#blogpost__section img {
+  margin-inline: auto;
+}
+#blogpost__section .img_caption {
+  text-align: center;
+}
+
+@counter-style ul-list {
+  system: cyclic;
+  symbols: 👉 👉🏻 👉🏼 👉🏽 👉🏾 👉🏿;
+  suffix: "  ";
+}
+
+@counter-style ol-list {
+  system: fixed;
+  symbols: ⚀ ⚁ ⚂ ⚃ ⚄ ⚅;
+  suffix: "  ";
+}
+
+#blogpost__section ul {
+  list-style: ul-list;
+}
+#blogpost__section ul li {
+  list-style: inherit;
+  list-style-position: inside;
+}
+
+#blogpost__section ol {
+  list-style: ol-list;
+}
+#blogpost__section ol li {
+  list-style: inherit;
+  list-style-position: inside;
 }

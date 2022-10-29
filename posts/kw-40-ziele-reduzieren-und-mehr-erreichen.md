@@ -6,6 +6,8 @@ date: "October 9, 2022"
 
 # KW 40: Ziele reduzieren und mehr erreichen
 
+**Inhaltsverzeichnis**
+
 ${toc}
 
 Diese Woche habe ich meine Zielsetzung etwas reduziert. Ich hatte viel zu viele Ziele:
@@ -94,7 +96,7 @@ Am Wochenende „[Apache bleibt gleich](https://www.amazon.de/Apache-bleibt-glei
 
 ![Apache bleibt gleich Poster](/images/posts/kw40/apache-bleibt-gleich-poster.png)
 
-Foto von [Filmstarts](https://www.filmstarts.de/kritiken/307964.html)
+Foto von [Filmstarts](https://www.filmstarts.de/kritiken/307964.html) {.img_caption}
 
 ## Was ich sonst so gemacht habe?
 

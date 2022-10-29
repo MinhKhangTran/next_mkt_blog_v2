@@ -6,6 +6,8 @@ date: "October 23, 2022"
 
 # KW 42: Es führt kein anderer Weg vorbei, als sich anzustrengen
 
+**Inhaltsverzeichnis**
+
 ${toc}
 
 “Wenn du so weitermachst, dann wirst du auch nächstes Jahr bei dieser Leistung sein!”.
@@ -68,11 +70,11 @@ Aber es stimmt auch.
 
 Diese Woche waren die Gewichte gleich, aber die Form hat sich verbessert. Eine bessere Form ist auch ein Indiz für Progress.
 
-### **Kniebeugen: 100kg 5x5**
+### Kniebeugen: 100kg 5x5
 
 Da hat diese Woche leider keiner draufgeschaut. Am besten lieber mit Aufsicht beugen.
 
-### **Bankdrücken: 80kg 5x5**
+### Bankdrücken: 80kg 5x5
 
 Ich muss mich anstrengen und meine Form konstant halten. Ich habe bei den letzten Wiederholungen immer etwas Angst und dann leidet meine Form.
 
