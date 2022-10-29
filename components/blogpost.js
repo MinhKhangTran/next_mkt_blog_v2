@@ -1,6 +1,7 @@
 import md from "markdown-it";
 import mdAnchor from "markdown-it-anchor";
 import mdTOC from "markdown-it-toc-done-right";
+import Link from "next/link";
 import { useRouter } from "next/router";
 
 const Blogpost = ({ content }) => {
@@ -21,8 +22,10 @@ const Blogpost = ({ content }) => {
             .render(content),
         }}
       ></div>
-      <button type="button" onClick={() => router.back()}>
-        Zurück zu den Posts
+      <button type="button">
+        <Link href="/">
+          <a>Zu den Posts</a>
+        </Link>
       </button>
     </section>
   );
