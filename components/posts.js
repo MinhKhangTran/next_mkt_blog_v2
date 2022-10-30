@@ -3,11 +3,11 @@ import { useRouter } from "next/router";
 
 const Posts = ({ posts }) => {
   const router = useRouter();
-  console.log(router.pathname);
+
   return (
     <section id="latestBlog" aria-label="latest Blog abschnitt">
       <div className="wrapper">
-        <h2 className="">
+        <h2 className={router.pathname !== "/" && "no__padding"}>
           {router.pathname === "/" ? "Die neusten Posts" : "Alle Posts"}
         </h2>
         <div className="blogposts">

@@ -15,7 +15,7 @@ const Blogpost = ({ content }) => {
               level: 2,
               permalink: mdAnchor.permalink.linkInsideHeader({
                 symbol: `
-      
+                
       <span aria-hidden="true">#</span>
     `,
                 placement: "before",
@@ -36,11 +36,9 @@ const Blogpost = ({ content }) => {
       ></div>
 
       <div className="post__wrapper">
-        <button type="button">
-          <Link href="/blog">
-            <a>Zu den Posts</a>
-          </Link>
-        </button>
+        <Link href="/blog">
+          <a className="post__btn">Zu den Posts</a>
+        </Link>
       </div>
     </section>
   );

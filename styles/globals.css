@@ -177,7 +177,7 @@ Global Styles
   --clr-bg-secondary: #f5f5f5;
   --clr-heading: #171717;
   --clr-body: #404040;
-  --clr-body-light: #737373;
+  --clr-body-light: #6d6d6d;
 }
 
 body {
@@ -314,6 +314,9 @@ nav .btn:hover svg path {
   font-size: 1.5rem;
   font-weight: 400;
 }
+#latestBlog .no__padding {
+  padding-top: 0;
+}
 #latestBlog .heading-2 {
   font-size: 1.5rem;
   font-weight: 600;
@@ -332,6 +335,7 @@ nav .btn:hover svg path {
 #latestBlog .link {
   display: inline-block;
   margin-top: 3rem;
+  color: var(--clr-body-light);
 }
 
 @media (min-width: 1100px) {
@@ -458,6 +462,7 @@ footer .unnoetige__links {
   width: 90%;
   max-width: 750px;
   margin-inline: auto;
+  margin-top: 3rem;
 }
 #blogpost__section img {
   margin-inline: auto;
@@ -492,4 +497,8 @@ footer .unnoetige__links {
 #blogpost__section ol li {
   list-style: inherit;
   list-style-position: inside;
+}
+#blogpost__section .post__btn {
+  padding-block: 0.75rem;
+  color: var(--clr-body-light);
 }
