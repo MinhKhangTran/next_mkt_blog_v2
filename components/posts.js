@@ -7,9 +7,12 @@ const Posts = ({ posts }) => {
   return (
     <section id="latestBlog" aria-label="latest Blog abschnitt">
       <div className="wrapper">
-        <h2 className={router.pathname !== "/" && "no__padding"}>
-          {router.pathname === "/" ? "Die neusten Posts" : "Alle Posts"}
-        </h2>
+        {router.pathname === "/" ? (
+          <h2>Die neusten Posts</h2>
+        ) : (
+          <h1 className="no__padding">Alle Posts</h1>
+        )}
+
         <div className="blogposts">
           {posts.map((post) => {
             return (

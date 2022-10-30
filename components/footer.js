@@ -15,7 +15,17 @@ const Footer = () => {
       </p>
       <footer>
         <div className="wrapper">
-          <p>Gemacht mit ♥ und Next.js. © 2020-{date} Minh Khang Tran.</p>
+          <p>
+            Gemacht mit ♥ und{" "}
+            <a
+              href="https://nextjs.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Next.js
+            </a>{" "}
+            von Minh Khang Tran im Jahre {date}.
+          </p>
           <div className="unnoetige__links">
             <Link href="/impressum">Impressum</Link>
             <Link href="/datenschutzerklaerung">Datenschutzerklärung</Link>
