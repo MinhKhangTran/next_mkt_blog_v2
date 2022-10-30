@@ -407,10 +407,18 @@ footer .unnoetige__links {
 #blogpost__section nav ol {
   list-style: none;
 }
+#blogpost__section nav li {
+  padding-block: 0.25rem;
+}
 #blogpost__section nav a {
   color: var(--clr-body);
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 0.875rem;
+}
+@media (min-width: 768px) {
+  #blogpost__section nav li {
+    padding-block: 0rem;
+  }
 }
 
 #blogpost__section p {

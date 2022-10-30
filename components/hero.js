@@ -1,14 +1,14 @@
 const Hero = () => {
   return (
     <section className="wrapper" id="hero" aria-label="hero abschnitt">
-      <h1>Mein Blog über mein Leben und alles außenrum</h1>
+      <h1>Ein Ort um in Ruhe das Schreiben zu Üben ✍️</h1>
       <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-        eirmod tempor invidunt ut labore et dolore magna aliquyam.
+        Hallo, Ich bin Minh Khang Tran. Ich bin tagsüber ein
+        Berechnungsingenieur und vor und nach der Arbeit ein Möchtegern-Blogger.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-        eirmod tempor invidunt ut labore et dolore magna aliquyam.
+        Verfolge meinen Fortschritt wie ich von einem Möchtegern-Blogger zu
+        einem richtigen Blogger werden.
       </p>
       <ul className="social__links">
         <li>

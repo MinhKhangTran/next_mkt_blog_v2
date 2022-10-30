@@ -15,7 +15,7 @@ const Footer = () => {
       </p>
       <footer>
         <div className="wrapper">
-          <p>Made with ♥ and Next.js. © 2020-{date} Minh Khang Tran.</p>
+          <p>Gemacht mit ♥ und Next.js. © 2020-{date} Minh Khang Tran.</p>
           <div className="unnoetige__links">
             <Link href="/impressum">Impressum</Link>
             <Link href="/datenschutzerklaerung">Datenschutzerklärung</Link>
