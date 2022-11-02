@@ -619,6 +619,7 @@ h3 {
 #about__me .righty{
   display: flex;
     justify-content: center;
+    align-items: center;
 }
 @media (min-width: 768px){
   #about__me {
