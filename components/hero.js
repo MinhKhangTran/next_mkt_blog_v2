@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <section className="wrapper" id="hero" aria-label="hero abschnitt">
-      <h1>Ein Ort um in Ruhe das Schreiben zu Üben ✍️</h1>
+      <h1>Ein Ort um in Ruhe das Schreiben zu üben ✍️</h1>
       <p>
         Hallo, Ich bin Minh Khang Tran. Ich bin tagsüber ein
         Berechnungsingenieur und vor und nach der Arbeit ein Möchtegern-Blogger.

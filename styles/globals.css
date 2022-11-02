@@ -338,6 +338,16 @@ nav .btn:hover svg path {
   margin-top: 3rem;
   color: var(--clr-body-light);
 }
+.latestBlogPage {
+  padding-top: 2rem;
+  position: relative;
+}
+
+@media (min-width: 768px){
+  .latestBlogPage {
+    padding-top: 6.5rem;
+  }
+}
 
 @media (min-width: 1100px) {
   #latestBlog {
@@ -391,7 +401,7 @@ footer .unnoetige__links {
 /*==============================Blogpost======================== */
 #blogpost__section {
   background-color: var(--clr-bg-secondary);
-  padding-top: 6.5rem;
+  padding-top: 2rem;
   position: relative;
 }
 #blogpost__section h1 {
@@ -419,6 +429,11 @@ footer .unnoetige__links {
 @media (min-width: 768px) {
   #blogpost__section nav li {
     padding-block: 0rem;
+  }
+  #blogpost__section {
+    
+    padding-top: 6.5rem;
+   
   }
 }
 
@@ -515,7 +530,7 @@ footer .unnoetige__links {
 /*==============================Impressum======================== */
 #impressum {
   background-color: var(--clr-bg-secondary);
-  padding-top: 6.5rem;
+  padding-top: 2rem;
   position: relative;
 }
 #impressum h1,
@@ -539,10 +554,18 @@ h2 {
   font-weight: 400;
   position: relative;
 }
+
+@media (min-width: 768px){
+  #impressum {
+    
+    padding-top: 6.5rem;
+    
+  }
+}
 /*==============================Datenschutzerklärung======================== */
 #datenschutzerklaerung {
   background-color: var(--clr-bg-secondary);
-  padding-top: 6.5rem;
+  padding-top: 2rem;
   position: relative;
 }
 #datenschutzerklaerung h1,
@@ -567,10 +590,17 @@ h3 {
   font-weight: 400;
   position: relative;
 }
+@media (min-width: 768px){
+  #datenschutzerklaerung {
+    
+    padding-top: 6.5rem;
+    
+  }
+}
 /*==============================Über mich======================== */
 #about__me {
   background-color: var(--clr-bg-secondary);
-  padding-top: 6.5rem;
+  padding-top: 2rem;
   position: relative;
 }
 
@@ -583,5 +613,16 @@ h3 {
 }
 #about__me .lefty,
 #about__me .righty {
+  flex: 100%;
+}
+@media (min-width: 768px){
+  #about__me {
+    
+    padding-top: 6.5rem;
+    
+  }
+  #about__me .lefty,
+#about__me .righty {
   flex: 50%;
+}
 }

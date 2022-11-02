@@ -5,7 +5,7 @@ const Posts = ({ posts }) => {
   const router = useRouter();
 
   return (
-    <section id="latestBlog" aria-label="latest Blog abschnitt">
+    <section id="latestBlog" className={router.pathname !== "/" && "latestBlogPage"} aria-label="latest Blog abschnitt">
       <div className="wrapper">
         {router.pathname === "/" ? (
           <h2>Die neusten Posts</h2>
