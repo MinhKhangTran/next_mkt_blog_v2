@@ -610,6 +610,7 @@ h3 {
 #about__me .flex {
   display: flex;
   gap: 2rem;
+  flex-direction: column;
 }
 #about__me .lefty,
 #about__me .righty {
