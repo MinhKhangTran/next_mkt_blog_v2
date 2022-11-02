@@ -616,11 +616,19 @@ h3 {
 #about__me .righty {
   flex: 100%;
 }
+#about__me .righty{
+  display: flex;
+    justify-content: center;
+}
 @media (min-width: 768px){
   #about__me {
     
     padding-top: 6.5rem;
     
+  }
+  #about__me .flex {
+    
+    flex-direction: row;
   }
   #about__me .lefty,
 #about__me .righty {
