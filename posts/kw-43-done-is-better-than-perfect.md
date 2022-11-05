@@ -66,13 +66,13 @@ Als Deload dann einfach die Weakness Trainingseinheiten skippen und ein bis zwei
 
 Ich denke in zwei Wochen mache ich eine Deload-Woche.
 
-### \*\*Kniebeugen: 100kg 5x5
+### Kniebeugen: 100kg 5x5
 
 Durch meine neue breite Beuge ist mein Oberkörper aufrechter und ich komme leichter in die Tiefe. Das Gewicht ist kein Problem.
 
 Mein Coach meint auch, dass es ästhetisch aussieht und dass er sich auf höhere Gewichte freut. Ich natürlich auch 🔥.
 
-### \*\*Bankdrücken: 80kg 5x5
+### Bankdrücken: 80kg 5x5
 
 “Ich mache auf der Brust solange Pause, bis sich Wettkampf-Bankdrücken wie Stop-and-Go Bankdrücken anfühlt”.
 
