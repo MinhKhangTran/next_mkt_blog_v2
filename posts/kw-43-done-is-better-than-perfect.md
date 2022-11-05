@@ -12,7 +12,7 @@ ${toc}
 
 Ich habe keine Zeit!
 
-Wenn ich mehr Schlaf priorisiere, habe ich auf der anderen Seite weniger Zeit für meine anderen Aktivitäten. 
+Wenn ich mehr Schlaf priorisiere, habe ich auf der anderen Seite weniger Zeit für meine anderen Aktivitäten.
 
 Leider hat ein Tag nur 24 h und meine Energie über den Tag ist begrenzt.
 
@@ -22,7 +22,7 @@ Mein Blog habe ich für meine Verhältnisse dahingerotzt.
 
 Aber es ist ok.
 
-*Done is better than perfect.*
+_Done is better than perfect._
 
 Es ist jetzt online. Ich werde es weiter bearbeiten.
 
@@ -60,19 +60,19 @@ I’m still hungry.
 
 Ich merke aber auch, wie ermüdet mein Körper ist. Aber bei dem Volumen, welches ich fahre ist es nicht verwunderlich.
 
-Meine Gelenke machen das auch nicht allzu lange mit. Ich benötige bald ein Deload xD. 
+Meine Gelenke machen das auch nicht allzu lange mit. Ich benötige bald ein Deload xD.
 
 Als Deload dann einfach die Weakness Trainingseinheiten skippen und ein bis zwei Sätze weniger im Training. Gewicht kann ruhig so bleiben.
 
 Ich denke in zwei Wochen mache ich eine Deload-Woche.
 
-### **Kniebeugen: 100kg 5x5**
+### \*\*Kniebeugen: 100kg 5x5
 
 Durch meine neue breite Beuge ist mein Oberkörper aufrechter und ich komme leichter in die Tiefe. Das Gewicht ist kein Problem.
 
 Mein Coach meint auch, dass es ästhetisch aussieht und dass er sich auf höhere Gewichte freut. Ich natürlich auch 🔥.
 
-### **Bankdrücken: 80kg 5x5**
+### \*\*Bankdrücken: 80kg 5x5
 
 “Ich mache auf der Brust solange Pause, bis sich Wettkampf-Bankdrücken wie Stop-and-Go Bankdrücken anfühlt”.
 
@@ -108,7 +108,7 @@ UK2: Unterkörper 2 mit Fokus auf Kreuzheben
 
 ## Was ich so angeschaut habe
 
-Diese Woche haben wir [Black Panther](https://www.disney.de/filme/black-panther) wieder angeschaut. 
+Diese Woche haben wir [Black Panther](https://www.disney.de/filme/black-panther) wieder angeschaut.
 
 Finde ich super gut.
 
@@ -122,7 +122,7 @@ Foto von [Disney](https://www.disney.de/filme/black-panther) {.img_caption}
 
 ## Was hängen geblieben ist
 
-Diese Woche ist nur [Hush Rush von Lee Chaeyeon](https://www.youtube.com/watch?v=6MKcY5wTcpY) hängen geblieben. 
+Diese Woche ist nur [Hush Rush von Lee Chaeyeon](https://www.youtube.com/watch?v=6MKcY5wTcpY) hängen geblieben.
 
 Es ist catchy und ein gutes Halloween Lied.
 
@@ -130,11 +130,11 @@ Rein vom MV aus.
 
 ## Was ich gelernt habe
 
-[Evergreen Content ist Zeitlos](https://bjoerntantau.com/evergreen-content-30032022.html) und kostet nicht mein ständige Aufmerksamkeit. Ich muss so ein Content für MKT Webdesign finden und Blogposts oder Artikel darüber schreiben. 
+[Evergreen Content ist Zeitlos](https://bjoerntantau.com/evergreen-content-30032022.html) und kostet nicht mein ständige Aufmerksamkeit. Ich muss so ein Content für MKT Webdesign finden und Blogposts oder Artikel darüber schreiben.
 
-Allgemein wollte ich mehr über solche Themen schreiben. Themen, die immer wieder gesucht werden und immer wichtig sind. 
+Allgemein wollte ich mehr über solche Themen schreiben. Themen, die immer wieder gesucht werden und immer wichtig sind.
 
-Ohne mich jetzt auf das neuste Hype Thema draufzustürzen und mich für Klicks prostituieren. 
+Ohne mich jetzt auf das neuste Hype Thema draufzustürzen und mich für Klicks prostituieren.
 
 ---
 
@@ -148,75 +148,75 @@ Und mit nicen Plugins kann ich Inhaltsverzeichnisse und Titelverlinkungen erstel
 
 Diese Woche habe ich ein Persönlichkeitstest gemacht. Anscheinend ist mein Persönlichkeitstyp der [Advokat](https://www.16personalities.com/de/infj-personlichkeit).
 
-Interessiert mich recht wenig. 
+Interessiert mich recht wenig.
 
 Werde aber demnächst darüber ein koreanischen Blogpost verfassen.
 
 ## Was ich sonst so gemacht habe?
 
-Lese abends das Buch [Texten können](https://www.rheinwerk-verlag.de/texten-koennen-das-neue-handbuch-fuer-marketer-texter-und-redakteure/) von [Daniela Rorig](https://www.rheinwerk-verlag.de/texten-koennen-das-neue-handbuch-fuer-marketer-texter-und-redakteure/autor/). Gefällt mir bisher das Buch. Ich habe das Buch glaub nicht zum ersten Mal gelesen. Ich habe das Buch nur ausgeliehen und es lag dann dumm rum. 
+Lese abends das Buch [Texten können](https://www.rheinwerk-verlag.de/texten-koennen-das-neue-handbuch-fuer-marketer-texter-und-redakteure/) von [Daniela Rorig](https://www.rheinwerk-verlag.de/texten-koennen-das-neue-handbuch-fuer-marketer-texter-und-redakteure/autor/). Gefällt mir bisher das Buch. Ich habe das Buch glaub nicht zum ersten Mal gelesen. Ich habe das Buch nur ausgeliehen und es lag dann dumm rum.
 
-Aber seit ich es etwas ernst nehme mit dem Texten, lese ich konsequent. 
+Aber seit ich es etwas ernst nehme mit dem Texten, lese ich konsequent.
 
-Ihr Schreibstil gefällt mir. 
+Ihr Schreibstil gefällt mir.
 
-Es erinnert mich an Walter Epp. 
+Es erinnert mich an Walter Epp.
 
-Das ist also die Uniqueness von dem alle reden. Paar eigene Powerwörter einstreuen und bildlich schreiben. 
+Das ist also die Uniqueness von dem alle reden. Paar eigene Powerwörter einstreuen und bildlich schreiben.
 
-Mit unkonventionellen Metaphern. 
+Mit unkonventionellen Metaphern.
 
-Weil alle anderen Metaphern ausgelutscht sind. 
-
----
-
-Diese Woche habe ich den [Content Terminator](https://shop.schreibsuchti.de/content-terminator/) gegönnt. Ich habe dafür knapp 170€ gezahlt. 
-
-Richtig teuer für ein Buch. 
-
-Aber Walter Epp verkauft es mit Selbstvertrauen. 
-
-Meine Erwartungen sind hoch. 
-
-Und ich werde es durchlesen und anwenden, weil ich ordentlich Geld dafür ausgegeben habe. 
+Weil alle anderen Metaphern ausgelutscht sind.
 
 ---
 
-Ich beiße bei den schweren Sätzen stark auf meine Zähne. Es schadet meine Kiefer. 
+Diese Woche habe ich den [Content Terminator](https://shop.schreibsuchti.de/content-terminator/) gegönnt. Ich habe dafür knapp 170€ gezahlt.
 
-Habe mir also so [Boxer Zahnschutz](https://www.amazon.de/Beast-Gear-Mundschutz-Zahnschutz-Aufbewahrungsbox/dp/B01N5D7DOQ/ref=sr_1_1_sspa?crid=R1QFW2TUDLXV&keywords=zahnschutz&qid=1667384356&qu=eyJxc2MiOiI1Ljg4IiwicXNhIjoiNS41OSIsInFzcCI6IjUuMjcifQ%3D%3D&s=sports&sprefix=za%2Csports%2C391&sr=1-1-spons&psc=1) gekauft. Bisher habe ich die noch nicht probiert. 
+Richtig teuer für ein Buch.
 
-Ein Fazit folgt bestimmt. 
+Aber Walter Epp verkauft es mit Selbstvertrauen.
+
+Meine Erwartungen sind hoch.
+
+Und ich werde es durchlesen und anwenden, weil ich ordentlich Geld dafür ausgegeben habe.
 
 ---
 
-Vor lauter Designen, schlafen und schreiben vernachlässige ich das koreanisch Lernen. 
+Ich beiße bei den schweren Sätzen stark auf meine Zähne. Es schadet meine Kiefer.
 
-Koreanisch ist einer meiner Themengebiete, in denen ich richtig gut sein will. 
+Habe mir also so [Boxer Zahnschutz](https://www.amazon.de/Beast-Gear-Mundschutz-Zahnschutz-Aufbewahrungsbox/dp/B01N5D7DOQ/ref=sr_1_1_sspa?crid=R1QFW2TUDLXV&keywords=zahnschutz&qid=1667384356&qu=eyJxc2MiOiI1Ljg4IiwicXNhIjoiNS41OSIsInFzcCI6IjUuMjcifQ%3D%3D&s=sports&sprefix=za%2Csports%2C391&sr=1-1-spons&psc=1) gekauft. Bisher habe ich die noch nicht probiert.
+
+Ein Fazit folgt bestimmt.
+
+---
+
+Vor lauter Designen, schlafen und schreiben vernachlässige ich das koreanisch Lernen.
+
+Koreanisch ist einer meiner Themengebiete, in denen ich richtig gut sein will.
 
 Ich brauche wieder fixe Zeiten zum lernen…
 
 ## Was ich diese Woche entdeckt habe
 
-Durch einen [Podcast von JSParty](https://changelog.com/jsparty/247) habe ich wieder [Docusaurus](https://docusaurus.io/docs) entdeckt. 
+Durch einen [Podcast von JSParty](https://changelog.com/jsparty/247) habe ich wieder [Docusaurus](https://docusaurus.io/docs) entdeckt.
 
-Ich habe es einmal verwendet und es ist geil. Es sieht zwar immer gleich aus, aber es biete alles was man für das Dokumentieren oder Bloggen benötigt. 
+Ich habe es einmal verwendet und es ist geil. Es sieht zwar immer gleich aus, aber es biete alles was man für das Dokumentieren oder Bloggen benötigt.
 
-Vllt verwende ich das für ein neuen Blog oder zum Dokumentieren von irgendetwas. 
-
----
-
-Wie oben erwähnt, musste ich diese Woche daheim trainieren. Ein Home gym ist schon bae. Ich trainiere dort nicht mehr oft, aber wenn man mal dort trainiert, dann schätzt man es immer wieder. 
+Vllt verwende ich das für ein neuen Blog oder zum Dokumentieren von irgendetwas.
 
 ---
 
-Für einen Freund habe ich diese Woche [Pokemon Pearl Remake](https://diamondpearl.pokemon.com/de-de/) gekauft. 
+Wie oben erwähnt, musste ich diese Woche daheim trainieren. Ein Home gym ist schon bae. Ich trainiere dort nicht mehr oft, aber wenn man mal dort trainiert, dann schätzt man es immer wieder.
 
-Ich habe das Original gezockt. 
+---
+
+Für einen Freund habe ich diese Woche [Pokemon Pearl Remake](https://diamondpearl.pokemon.com/de-de/) gekauft.
+
+Ich habe das Original gezockt.
 
 Ist schon nett, aber bin gar kein zocker mehr. Mir fehlt einfach die Zeit…
 
-Und die Lust xD. 
+Und die Lust xD.
 
 ---
 
