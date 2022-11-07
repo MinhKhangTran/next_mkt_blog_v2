@@ -36,7 +36,7 @@ Das Thema dieser Woche war die Mülltrennung in Deutschland. Ich habe dazu ein s
 
 Ich hoffe jemand findet es nützlich und benötigt so etwas xD.
 
-[Der Link zum Post](https://blog.naver.com/minhkhangtran/222908108494)
+[Der Link zum Post](https://blog.naver.com/minhkhangtran/222921733283)
 
 ## Web Design
 
