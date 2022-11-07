@@ -83,7 +83,7 @@ Gefällt mir. Nach dem Deload wird da angegriffen und vermehrt in der Halle mit 
 
 ---
 
-Einheiten: 5 mal trainiert
+Einheiten: 6 mal trainiert
 
 OK1-UK1-WOK-WUK-OK2-Rest-UK2
 
