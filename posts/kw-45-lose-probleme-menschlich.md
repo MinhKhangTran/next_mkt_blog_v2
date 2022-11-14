@@ -87,11 +87,11 @@ Die ganzen Wehwehchen im Overload werden im Ruhezustand geheilt.
 
 Hoffe ich 😆.
 
-### **Kniebeugen: 90 kg 1x3**
+### Kniebeugen: 90 kg 1x3
 
 Mein rechtes Knie hat beim Beugen weh getan. Das ist die Ermüdung und Erschöpfung, die ich in den 6 Wochen davor gesammelt haben.
 
-### **Bankdrücken: 70 kg 3x5**
+### Bankdrücken: 70 kg 3x5
 
 Bankdrücken lief aber gut dafür. Ich lasse das Gewicht jetzt mehr auf die Brust “fallen”.
 
