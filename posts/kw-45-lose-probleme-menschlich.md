@@ -63,7 +63,7 @@ Ich will wieder lernen und habe vorerst genug von den [Anki Flashcards](https://
 
 Die sind zwar super, aber ich mache es halbherzig und klicke zu früh auf die Auflösung.
 
-Diese Woche habe ich das 100 Tage Buch gelernt. Es ist ganz okay, aber sehe auf lange Hinsicht keine Progression.
+Diese Woche habe ich das "100 Tage" Buch gelernt. Es ist ganz okay, aber sehe auf lange Hinsicht keine Progression.
 
 Filme auf koreanisch schauen, hilft mir beim Hörverstehen.
 
