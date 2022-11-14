@@ -59,7 +59,7 @@ Außerdem habe ich den nächsten Post zu dem Thema “Unfair Advantage” beende
 
 Ich bin immer noch auf der Suche nach gescheiten Lernmethoden.
 
-Ich will wieder lernen und habe vorerst genug von den Anki Flashcards 🤡.
+Ich will wieder lernen und habe vorerst genug von den [Anki Flashcards](https://ankiweb.net/about) 🤡.
 
 Die sind zwar super, aber ich mache es halbherzig und klicke zu früh auf die Auflösung.
 
