@@ -14,11 +14,7 @@ export default function About() {
                 
               </p>
               <p>Hier schreibe ich meine wöchentlichen Learnings und meine Gedanken, die ich sonst nirgends auffange und niederschreibe.</p>
-              <p>
-                Warum das Ganze? Ehrlich gesagt, keine Ahnung. Aber wo wären wir, wenn wir für alles was wir machen eine Rechtfertigung brauchen :D.
-                
-              </p>
-              <p>In diesem Sinne. Viel Spaß beim stalken und rumlesen.</p>
+              
               {/* <p>Für die, die es sehr genauen wollen:</p> */}
               {/* <a href="">Lebenslauf schauen</a> */}
             </div>
