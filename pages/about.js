@@ -15,8 +15,9 @@ export default function About() {
               </p>
               <p>Hier schreibe ich meine wöchentlichen Learnings und meine Gedanken, die ich sonst nirgends auffange und niederschreibe.</p>
               
-              {/* <p>Für die, die es sehr genauen wollen:</p> */}
-              {/* <a href="">Lebenslauf schauen</a> */}
+              <p>Für die, die es sehr genauen wollen:</p>
+              <a href="/files/Lebenslauf.pdf"  target="_blank"
+    rel="noopener noreferrer">Lebenslauf anschauen</a>
             </div>
             <div className="righty">
               <Image
