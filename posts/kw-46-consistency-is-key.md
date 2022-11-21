@@ -70,7 +70,7 @@ Brauche mehr Bauchspannung. Aber sonst waren sie easy peasy.
 
 Ich übe an der Beltsquat das mit den Bauchspannen. Da kann ich isoliert Beugen, ohne mich auf den Rest zu fokussieren.
 
-### Bankdrücken: 80 kg 4x5 ****
+### Bankdrücken: 80 kg 4x5
 
 Auch das Gewicht hat sich erstaunlich gut bewegt.
 
@@ -179,7 +179,7 @@ Diese Woche ist mir die Entwicklung von Kpop Girl Groups aufgefallen.
 
 Das war mir nie so bewusst, aber ein Youtube Video hat mich darauf hingewiesen:
 
-Früher waren Girl Groups für Männer gedacht. Die ganze “Sex sells” Schiene usw. 
+Früher waren Girl Groups für Männer gedacht. Die ganze “*Sex sells*” Schiene usw. 
 
 Kennt man.
 
@@ -189,7 +189,9 @@ Und jetzt ist Girl Group verstärkt für Frauen. Die Mädchen zeigen eine starke
 
 [Bibi - BIBI Vengeance](https://www.youtube.com/watch?v=QfIY1r0_tRI) ist auch diese Woche hängen geblieben. Starke Frau!
 
-Aber Bibi ist nicht Mainstream, aber ist ein Rising star. In meinen Augen.
+Aber Bibi ist nicht Mainstream, aber ist ein Rising star. 
+
+In meinen Augen👀.
 
 ![Bild von [last.fm](https://www.last.fm/de/music/Bibi/Lowlife+Princess:+Noir) ](/images/posts/kw46/bibi-lowlife-princess.webp)
 
@@ -217,11 +219,11 @@ Aber sobald der Nutzer oder die Nutzerin mit der Seite interagieren will, sind s
 
 Beispiele:
 
-Blogs mit Kommentarfunktion 
+- Blogs mit Kommentarfunktion 
 
-E-Commerce
+- E-Commerce
 
-Anmeldeportal und Mitgliederbereiche
+- Anmeldeportal und Mitgliederbereiche
 
 Bei solchen Websites möchte ich Wordpress und [Shopify](https://www.shopify.com/de) verwenden. Dafür sind die ja gemacht worden. Also Wordpress fürs Bloggen und Shopify fürs Einkaufen.
 
