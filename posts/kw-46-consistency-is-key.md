@@ -220,9 +220,7 @@ Aber sobald der Nutzer oder die Nutzerin mit der Seite interagieren will, sind s
 Beispiele:
 
 - Blogs mit Kommentarfunktion 
-
 - E-Commerce
-
 - Anmeldeportal und Mitgliederbereiche
 
 Bei solchen Websites möchte ich Wordpress und [Shopify](https://www.shopify.com/de) verwenden. Dafür sind die ja gemacht worden. Also Wordpress fürs Bloggen und Shopify fürs Einkaufen.
