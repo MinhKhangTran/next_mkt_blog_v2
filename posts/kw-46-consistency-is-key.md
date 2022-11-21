@@ -1,7 +1,7 @@
 ---
 title: "KW 46: Consistency is Key"
 excerpt: "Der Wochenrückblick von KW46 über die Konsistenz"
-date: "November 10, 2022"
+date: "November 20, 2022"
 ---
 
 # KW 46: Consistency is Key
