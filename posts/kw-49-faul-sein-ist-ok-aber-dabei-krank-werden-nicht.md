@@ -210,7 +210,7 @@ Es war auch alles günstiger als in Deutschland, was ein großer Pluspunkt ist �
 
 Was ich nicht wusste:
 
-Sofia ⇒ Betonung auf dem o
+S**o**fia ⇒ Betonung auf dem o
 
 ---
 
