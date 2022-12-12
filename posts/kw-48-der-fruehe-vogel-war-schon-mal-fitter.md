@@ -12,7 +12,7 @@ ${toc}
 
 
 
-# KW 48: Der frühe Vogel war schon mal fitter
+
 
 ![Foto von [Kate Stone Matheson](https://unsplash.com/es/@kstonematheson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/s/photos/rest-day?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 ](/images/posts/kw48/schlafende-katze-auf-dem-bett.jpg)

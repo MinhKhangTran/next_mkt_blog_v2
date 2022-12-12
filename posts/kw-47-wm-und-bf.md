@@ -12,7 +12,7 @@ ${toc}
 
 
 
-# KW 47: WM und BF
+
 
 ![Foto von [Jon Tyson](https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/s/photos/black-friday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/images/posts/kw47/BF.jpg)
 

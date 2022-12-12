@@ -12,8 +12,6 @@ ${toc}
 
 
 
-# KW 46: Consistency is Key
-
 ![Foto von [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/s/photos/goal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)](/images/posts/kw46/to-do-liste-fuehren.jpg)
 
 Foto von [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/s/photos/goal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) {.img_caption}
