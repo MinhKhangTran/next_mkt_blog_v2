@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 const Footer = () => {
-  const date = new Date().getFullYear();
+  
 
   return (
     <>
@@ -24,7 +24,7 @@ const Footer = () => {
             >
               Next.js
             </a>{" "}
-            von Minh Khang Tran im Jahre {date}.
+            von Minh Khang Tran im Jahre 2022.
           </p>
           <div className="unnoetige__links">
             <Link href="/impressum">Impressum</Link>

@@ -1,7 +1,7 @@
 ---
 title: "KW 49: Faul sein ist ok, aber dabei krank werden nicht :("
 excerpt: "Der Wochenrückblick von KW49 über meinen Urlaub in Sofia und das krankwerden danach"
-date: "December 12, 2022"
+date: "December 11, 2022"
 ---
 
 # KW 49: Faul sein ist ok, aber dabei krank werden nicht :(

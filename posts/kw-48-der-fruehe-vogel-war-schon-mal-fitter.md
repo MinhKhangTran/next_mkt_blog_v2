@@ -1,7 +1,7 @@
 ---
 title: "KW 48: Der frühe Vogel war schon mal fitter"
 excerpt: "Der Wochenrückblick von KW48 über meine Müdigkeit und meinen Struggle endlich wieder koreanisch zu lernen"
-date: "December 05, 2022"
+date: "December 04, 2022"
 ---
 
 # KW 48: Der frühe Vogel war schon mal fitter
