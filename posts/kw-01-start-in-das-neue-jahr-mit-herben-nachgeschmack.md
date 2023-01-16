@@ -28,7 +28,7 @@ Kaum etwas erledigt und semi gut geschlafen.
 
 ## Korean
 
-Diese Woche Mein Post über die Learnings aus 22 geschrieben und angefangen zu übersetzen.
+Diese Woche habe ich meinen Post über die Learnings aus 22 geschrieben und angefangen zu übersetzen.
 
 Leider war ich diese Woche zu faul und habe nicht viel Zeit damit verbracht.
 

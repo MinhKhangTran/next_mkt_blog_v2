@@ -30,12 +30,21 @@ Diese Jahr einfach wieder versuchen in meinen drei Säulen (Korean, Powerlifting
 
 ## Korean
 
-Diese Woche wurde mein Blog über meine Learnings aus 2022 korrigiert. Aber ich habe den Post noch nicht gepostet. 
-Ich will da noch eine Infografik dazu machen. Am besten mit [Canva](https://www.canva.com/de_de/). 
+Diese Woche wurde mein Blog über meine Learnings aus 2022 korrigiert. 
+
+Aber ich habe den Post noch nicht gepostet. 
+
+Ich will da noch eine Infografik dazu machen. 
+
+Am besten mit [Canva](https://www.canva.com/de_de/). 
 
 ---
 
-Außerdem habe ich mit dem [kleinen Prinzen](https://de.wikipedia.org/wiki/Der_kleine_Prinz) angefangen. Es ist nicht schwer und nicht einfach. Ich glaube, es ist leicht über meinem Niveau. Das ist sehr gut. Ich versuche täglich 1 Seite zu lesen und es auch gleich zu analysieren.
+Außerdem habe ich mit dem [kleinen Prinzen](https://de.wikipedia.org/wiki/Der_kleine_Prinz) angefangen. 
+
+Es ist nicht schwer und nicht einfach. Ich glaube, es ist leicht über meinem Niveau. Das ist sehr gut. 
+
+Ich versuche täglich 1 Seite zu lesen und es auch gleich zu analysieren.
 
 Und ja, ich lerne wieder Flashcards mit Anki. Aber nur neue Vokabeln, die ich vom kleinen Prinzen gelernt habe.
 
@@ -45,7 +54,11 @@ Bild von [Exupersysprinz](https://www.exuperysprinz.de/text/) {.img_caption}
 
 ---
 
-Außerdem überlege ich, ob ich dieses Jahr an der [TOPIK Prüfung](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/asien-orient-wissenschaften/koreanistik/topik-test/topik-anmeldeunterlagen/) teilnehmen soll. Hmm. Bockt nicht so xD.
+Außerdem überlege ich, ob ich dieses Jahr an der [TOPIK Prüfung](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/asien-orient-wissenschaften/koreanistik/topik-test/topik-anmeldeunterlagen/) teilnehmen soll. 
+
+Hmm. 
+
+Bockt nicht so xD.
 
 ## Web Design
 
@@ -150,9 +163,15 @@ Habe die ersten zwei Filme gegönnt.
 
 Ok…
 
-Die Route “Heaven’s Feel” ist echt chaotisch und vollkommen anders XD. Aber mega geile. Alles so unerwartet und Fokus auf Sakura. Gefällt mir.
+Die Route “Heaven’s Feel” ist echt chaotisch und vollkommen anders XD. Aber mega geile. 
 
-Die Filme sind etwas fast-paced und etwas Hintergrundwissen ist nötig, um alles zu verstehen. Aber dennoch geil gemacht.
+Alles so unerwartet und Fokus auf Sakura. 
+
+Gefällt mir.
+
+Die Filme sind etwas fast-paced und etwas Hintergrundwissen ist nötig, um alles zu verstehen. 
+
+Aber dennoch geil gemacht.
 
 Vor allem weil es wieder [ufotable](https://en.wikipedia.org/wiki/Ufotable) animiert.
 
@@ -217,9 +236,13 @@ Der YouTuber Gabe Bult bringt in letzter Zeit gute Videos raus.
 Kann immer paar neue Learnings rausziehen.
 
 - Das Zweitbeste ist meistens die bessere Wahl.
+
 Gilt für Essen und Netflix-Serien.
+
 Die Suche nach dem besten Abendessen und der besten Netflix-Serie dauert ewig. Einfach mit der Zweitwahl durchstarten.
+
 - Digitaler Minimalismus:
+
 Neue Fokus Funktion von Apple nutzen. Mitteilungen werden dann nicht angezeigt und man wird nicht mehr davon genervt.
 
 Von [8 Tiny Ways To Simplify Your Life](https://www.youtube.com/watch?v=szadnP-lcC4)
@@ -234,7 +257,9 @@ Eine Überlegung ist es wert. Und der Preis ist schon deftig mit ca. 160 €.
 
 Aber Gains machen muss ich. Whatever it takes.
 
-Ich werde es vorerst im Vereinsgym ausleihen und testen. Wenn es wirklich geil ist, werde ich es mir holen und es auch außerhalb vom Sport tragen.
+Ich werde es vorerst im Vereinsgym ausleihen und testen. 
+
+Wenn es wirklich geil ist, werde ich es mir holen und es auch außerhalb vom Sport tragen.
 
 ---
 
