@@ -1,7 +1,7 @@
 ---
 title: "KW 04: Skin Care für High Value Man"
 excerpt: "Der Wochenrückblick von KW04 über Skin Care"
-date: "January 22, 2023"
+date: "January 29, 2023"
 ---
 
 # KW 04: Skin Care für High Value Man
