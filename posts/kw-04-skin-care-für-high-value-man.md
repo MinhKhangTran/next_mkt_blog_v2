@@ -178,9 +178,9 @@ Es ist schon ein Augenschmaus.
 
 Da ich die Story von Avatar 1 nicht mehr auf dem Schirm habe, haben wir auch mit Avatar 1 angefangen. Langsam kommt es wieder und Avatar 2 macht Sinn 😀.
 
-[Bild von [Sat1gold](https://www.sat1gold.de/avatar-aufbruch-nach-pandora)](/images/posts/kw04_2023/avatar_1.avif)
+[Bild von [Digitaleleinwand](https://digitaleleinwand.de/2009/12/11/finales-avatar-poster/)](/images/posts/kw04_2023/avatar-finales-Poster.jpg)
 
-Bild von [Sat1gold](https://www.sat1gold.de/avatar-aufbruch-nach-pandora) {.img_caption}
+Bild von [Digitaleleinwand](https://digitaleleinwand.de/2009/12/11/finales-avatar-poster/) {.img_caption}
 
 ## Was hängen geblieben ist
 
