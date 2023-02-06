@@ -82,7 +82,7 @@ Was ich genau mache: Siehe unten.
 
 ### Kniebeugen: 125 3x5
 
-“Rechtes Knie weiter vorn”.
+“Rechtes Knie weiter vor”.
 
 Durch meine jahrelange Verletzung am rechten Knie habe ich eine Schonhaltung eingenommen.
 
