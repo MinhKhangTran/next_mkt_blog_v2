@@ -205,6 +205,9 @@ h1 {
   font-weight: 400;
   line-height: 0.9;
 }
+h3{
+  font-size: 1.25rem;
+}
 @media (min-width: 768px) {
   h1 {
     font-size: 2.5rem;
@@ -384,6 +387,33 @@ nav .btn:hover svg path {
     width: 33.333%;
   }
   #sprache p{
+    width: 66.666%;
+  }
+  
+}
+/*==============================it======================== */
+
+#it {
+  margin-top: 4rem
+}
+#it .lang{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+
+@media (min-width: 768px) {
+  #it {
+    margin-top: 6.5rem
+  }
+  #it .lang{
+    flex-direction: row;
+  }
+  #it h3{
+    width: 33.333%;
+  }
+  #it p{
     width: 66.666%;
   }
   
