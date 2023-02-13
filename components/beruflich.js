@@ -26,6 +26,39 @@ const Beruflich = () => {
                 </ul>
             </article>
         </div>
+        <div className='exp'>
+            <p className='date'>02.2018 - 07.2018</p>
+            <article>
+                <h3>Kyungpook National University, Daegu, Südkorea</h3>
+                <h4>Masterand</h4>
+                <ul>
+                    <li>Unterstüztung der Doktoranden im Fluidtechnik Labor</li>
+                    <li>Master-Thesis: “Numerical simulation of oscillationg foils in a side-by-side arrangement for energy extraction”</li>
+                </ul>
+            </article>
+        </div>
+        <div className='exp'>
+            <p className='date'>11.2015 - 06.2016</p>
+            <article>
+                <h3>Hochschule Aalen, Aalen, Deutschland</h3>
+                <h4>Tutor und Bachelorand im Messtechniklabor</h4>
+                <ul>
+                    <li>Betreuung der Studenten im Messtechniklabor</li>
+                    <li>Bachelor-Thesis: “Identifikation der Schräglaufsteifigkeiten für die modellgestützte Spurregelung mit Validierung im Versuchsfahrzeug”</li>
+                </ul>
+            </article>
+        </div>
+        <div className='exp'>
+            <p className='date'>09.2014 - 03.2015</p>
+            <article>
+                <h3>Voith Hydro GmbH & Co. KG, Heidenheim, Deutschland</h3>
+                <h4>Praktikant</h4>
+                <ul>
+                    <li>Unterstüztung der Mitarbeiter in Stahlwasserbau-spezifische Projekte</li>
+                    <li>Erstellung von internen Berechnungstool in Excel und FEM-Berechnungen von spezifischen Bauteilen</li>
+                </ul>
+            </article>
+        </div>
        
     </section>
   )
