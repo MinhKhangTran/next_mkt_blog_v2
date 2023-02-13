@@ -6,7 +6,7 @@ const Layout = ({ children, title }) => {
   return (
     <>
       <Head>
-        <title>{title ? "MKT's Blog | " + title : "MKT's Blog"}</title>
+        <title>{title ? "MKT's Blog | " + title : "MKT's CV"}</title>
       </Head>
       <Navbar />
       <main id="main">{children}</main>

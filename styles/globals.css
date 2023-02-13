@@ -201,13 +201,13 @@ body {
 
 h1 {
   color: var(--clr-heading);
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 400;
   line-height: 0.9;
 }
 @media (min-width: 768px) {
   h1 {
-    font-size: 4rem;
+    font-size: 2.5rem;
   }
 }
 a {
@@ -217,15 +217,9 @@ a {
 nav {
   padding-block: 2rem;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
 }
-ul {
-  padding: 0;
-  margin: 0;
-}
-li {
-  list-style-type: none;
-}
+
 .logo {
   text-decoration: none;
   font-size: 1.5rem;
@@ -233,19 +227,7 @@ li {
   line-height: 1.2;
   color: var(--clr-heading);
 }
-.navbar__links {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-top: 2rem;
-}
-.navbar__links a {
-  text-decoration: none;
-  color: var(--clr-body);
-}
-.navbar__links a:hover {
-  color: var(--clr-heading);
-}
+
 nav .btn {
   background-color: transparent;
   border: none;
@@ -256,53 +238,91 @@ nav .btn:hover svg path {
   transition: 0.3s ease-in all;
 }
 
-@media (min-width: 768px) {
-  nav {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .navbar__links {
-    gap: 3rem;
-    padding-top: 0;
-  }
-}
+
 
 /*==============================Hero======================== */
 
 #hero {
-  min-height: calc(100vh - 166px);
-  margin-block: center;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  width: 90%;
-  max-width: 900px;
-  margin-inline: auto;
-}
-#hero h1 {
-  padding-bottom: 2rem;
 }
 
-#hero p {
-  padding-bottom: 1rem;
+#hero p{
+  margin-top: 1rem;
 }
-#hero .social__links {
-  display: flex;
-  gap: 2rem;
-  align-items: center;
+#hero ul{
+  margin-top: 2rem;
 }
-
-#hero .social:hover svg path {
-  fill: var(--clr-heading);
-  transition: 0.3s ease-in all;
+#hero li{
+  margin-bottom: 0.5rem;
 }
 
 @media (min-width: 768px) {
   #hero {
-    min-height: calc(100vh - 105px);
+    flex-direction: row;
+  }
+  #hero .hero__bio, #hero .hero__image{
+    width: 50%;
   }
 }
+
+/*==============================Kompetenz======================== */
+
+#kompetenz {
+  margin-top: 4rem
+}
+
+
+#kompetenz ul{
+  margin-top: 1rem;
+}
+#kompetenz li{
+  margin-bottom: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  #kompetenz {
+    margin-top: 6.5rem
+  }
+}
+
+/*==============================Beruflich======================== */
+
+#beruflich {
+  margin-top: 4rem
+}
+#beruflich ul{
+  margin-top: 1rem;
+}
+#beruflich li{
+  margin-bottom: 0.5rem;
+}
+#beruflich .exp{
+  display: flex;
+  flex-direction: column;
+}
+
+
+#beruflich h3{
+  letter-spacing: 0.15em;
+}
+
+@media (min-width: 768px) {
+  #beruflich {
+    margin-top: 6.5rem
+  }
+  #beruflich .exp{
+    flex-direction: row;
+  }
+  #beruflich .date{
+    width: 33.333%;
+  }
+  #beruflich article{
+    width: 66.666%;
+  }
+  
+}
+
 /*==============================latestBlog======================== */
 
 #latestBlog {

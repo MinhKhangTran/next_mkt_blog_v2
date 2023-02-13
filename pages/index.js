@@ -1,24 +1,19 @@
-import Head from "next/head";
-import Footer from "../components/footer";
+
+import Beruflich from "../components/beruflich";
 import Hero from "../components/hero";
+import Kompetenz from "../components/kompetenz";
 import Layout from "../components/Layout";
 
-import Posts from "../components/posts";
-import { getPosts } from "../lib/posts";
+
 
 export default function Home({ posts }) {
   return (
     <Layout>
       <Hero />
-      <Posts posts={posts} />
+      <Kompetenz/>
+      <Beruflich/>
     </Layout>
   );
 }
 
-export async function getStaticProps() {
-  return {
-    props: {
-      posts: getPosts().slice(0, 4),
-    },
-  };
-}
+

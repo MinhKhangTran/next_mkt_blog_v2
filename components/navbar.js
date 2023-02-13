@@ -113,15 +113,9 @@ const Navbar = () => {
       <Link href="/">
         <a className="logo">MKT</a>
       </Link>
-      <ul className="navbar__links">
-        <li>
-          <Link href="/blog">Blog</Link>
-        </li>
-        <li>
-          <Link href="/about">Über mich</Link>
-        </li>
-        <li>{renderThemeChanger()}</li>
-      </ul>
+   
+        {renderThemeChanger()}
+      
     </nav>
   );
 };
