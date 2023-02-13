@@ -324,6 +324,71 @@ nav .btn:hover svg path {
   
 }
 
+/*==============================learning======================== */
+
+#learning {
+  margin-top: 4rem
+}
+#learning ul{
+  margin-top: 1rem;
+}
+#learning li{
+  margin-bottom: 0.5rem;
+}
+#learning .exp{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+
+#learning h3{
+  letter-spacing: 0.15em;
+}
+
+@media (min-width: 768px) {
+  #learning {
+    margin-top: 6.5rem
+  }
+  #learning .exp{
+    flex-direction: row;
+  }
+  #learning .date{
+    width: 33.333%;
+  }
+  #learning article{
+    width: 66.666%;
+  }
+  
+}
+/*==============================Sprache======================== */
+
+#sprache {
+  margin-top: 4rem
+}
+#sprache .lang{
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+
+@media (min-width: 768px) {
+  #sprache {
+    margin-top: 6.5rem
+  }
+  #sprache .lang{
+    flex-direction: row;
+  }
+  #sprache h3{
+    width: 33.333%;
+  }
+  #sprache p{
+    width: 66.666%;
+  }
+  
+}
+
 /*==============================latestBlog======================== */
 
 #latestBlog {
