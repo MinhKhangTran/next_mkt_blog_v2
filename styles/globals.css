@@ -479,7 +479,8 @@ nav .btn:hover svg path {
 .back-to-top {
   background-color: var(--clr-bg-secondary);
   padding-bottom: 1rem;
-  padding-top: 6.5rem;
+  padding-top: 1rem;
+  margin-top: 4rem;
 }
 .back-to-top a {
   text-decoration: none;
@@ -489,6 +490,12 @@ nav .btn:hover svg path {
 }
 .back-to-top .text {
   cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .back-to-top {
+    margin-top: 6.5rem;
+  }
 }
 
 /*==============================Footer======================== */
