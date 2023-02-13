@@ -300,6 +300,7 @@ nav .btn:hover svg path {
 #beruflich .exp{
   display: flex;
   flex-direction: column;
+  margin-top: 1rem;
 }
 
 
