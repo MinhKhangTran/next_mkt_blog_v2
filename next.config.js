@@ -15,6 +15,16 @@ module.exports = {
         destination: '/',
         permanent: true,
       },
+      {
+        source: '/blog',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/blog/:slug*',
+        destination: '/',
+        permanent: true,
+      },
     ]
   },
 };
