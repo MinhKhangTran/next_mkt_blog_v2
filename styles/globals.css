@@ -652,7 +652,6 @@ footer .unnoetige__links {
 
 /*==============================Impressum======================== */
 #impressum {
-  background-color: var(--clr-bg-secondary);
   padding-top: 2rem;
   position: relative;
 }
@@ -687,7 +686,6 @@ h2 {
 }
 /*==============================Datenschutzerklärung======================== */
 #datenschutzerklaerung {
-  background-color: var(--clr-bg-secondary);
   padding-top: 2rem;
   position: relative;
 }
